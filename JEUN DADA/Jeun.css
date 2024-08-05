@@ -503,7 +503,7 @@ footer .bottom-container  .privacy a{
     
         font-size:30px;
         margin-left: 0px;
-        margin-right: 25px;
+        margin-right: 13px;
         display: flex;
         flex-direction: row;
         justify-content: space-between;
@@ -565,7 +565,7 @@ footer .bottom-container  .privacy a{
      .main-container .right {
         position: absolute;
         top: 40;
-        left: 150px;
+        left: 160px;
         margin-top: 40px;
         z-index: -3;
     }
