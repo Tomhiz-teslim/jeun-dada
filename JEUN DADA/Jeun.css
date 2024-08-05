@@ -429,7 +429,7 @@ footer .bottom-container  .privacy a{
         background-color: #000;
         color: #fff;
         font-size: 8px;
-        width: 100%;
+        width: 400px;
         height: 40px;
         display: flex;
         align-items: center;
@@ -570,7 +570,7 @@ footer .bottom-container  .privacy a{
         z-index: -3;
     }
      .main-container .right .heroImage{
-        width: 13em;
+        width: 14em;
         height: 17em;
     } 
     
