@@ -521,6 +521,7 @@ footer .bottom-container  .privacy a{
         display: none;
         flex-direction: column;
         margin: 0px;
+        padding: 20px;
     }
      header .navContainer nav ul{
         width: 100%;
@@ -911,10 +912,9 @@ footer .bottom-container  .privacy a{
     }
 
     footer .bottom-container  .privacy{
-        border: dashed;
         width: 200px;
         height: 30px;
-        margin-top: 5%;
+        margin-top: -2%;
         margin-left: 100px;
         display: flex;
        
