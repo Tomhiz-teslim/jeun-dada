@@ -819,10 +819,9 @@ footer .bottom-container  .privacy a{
     }
 
     footer .bottom-container  .privacy{
-        border: dashed;
         width: 200px;
         height: 30px;
-        margin-top: 5%;
+        margin-top: 1%;
         margin-left: 100px;
         display: flex;
        
