@@ -474,6 +474,7 @@ footer .bottom-container  .privacy a{
         display: none;
         flex-direction: column;
         margin: 0px;
+        padding: 20px;
     }
      header .navContainer nav ul{
         width: 100%;
